@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1626092737 source:c:\users\maty\documents\carrera\primer cuatrimestre\validaciones\prutscher.matias.rpprog1a\prutscher.matias.rppprog1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
